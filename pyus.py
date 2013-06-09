@@ -10,7 +10,6 @@ using the `Google measurement protocol`_.
 # this should work both on Python 2 and Python 3
 import threading
 
-
 try:
     # exists only in Python 3
     import urllib.request as urlbib
